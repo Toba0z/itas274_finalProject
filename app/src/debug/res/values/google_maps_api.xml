@@ -1,0 +1,25 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=3D:E5:5C:B6:2D:F6:09:75:54:87:A2:2D:54:CC:24:35:42:04:7B:ED%3Bitas274.toba.geofencapp
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    itas274.toba.geofencapp
+
+    SHA-1 certificate fingerprint:
+    3D:E5:5C:B6:2D:F6:09:75:54:87:A2:2D:54:CC:24:35:42:04:7B:ED
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAiNjeiKUZuEUBop02JdBbqAO83y8rVOMI</string>
+
+</resources>
